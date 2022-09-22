@@ -1,0 +1,32 @@
+let orders = [
+    {
+        productName:"t-shirt",
+        productNumber:"625451",
+        paymentStatus:"Due",
+        shipping:"Declined",
+    },
+    {
+        productName:"iphone",
+        productNumber:"1112222",
+        paymentStatus:"refunded",
+        shipping:"pending",
+    },
+    {
+        productName:"tripods",
+        productNumber:"55666666",
+        paymentStatus:"Paid",
+        shipping:"Delivered",
+    },
+    {
+        productName:"jewellers",
+        productNumber:"322234",
+        paymentStatus:"refunded",
+        shipping:"pending",
+    },
+    {
+        productName:"football",
+        productNumber:"44322222",
+        paymentStatus:"Paid",
+        shipping:"Delivered",
+    }
+]
